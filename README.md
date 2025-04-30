@@ -23,7 +23,7 @@ The system comprises two machine learning models:
 ### Option 1: Running the Pre-trained System
 To quickly run and test the system:
 1. Download the 2 trained models from the models folder
-2. Download or create a test image named "test.jpg"
+2. Download or create a test image and name it as "test.jpg"
 3. Run the AMCS.ipynb notebook
 
 #### Test Image Requirements
